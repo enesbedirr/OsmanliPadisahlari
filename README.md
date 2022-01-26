@@ -1,0 +1,2 @@
+# OsmanliPadisahlari
+Osmanlı Padişahları Projesi
